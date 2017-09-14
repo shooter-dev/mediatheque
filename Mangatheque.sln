@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IHM", "IHM\IHM.csproj", "{9E003C62-036E-4C36-A1FB-FB914E56EB3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Metier\Model.csproj", "{680E7763-544E-48B1-B160-DCAC1AA848A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "DAO\DAO.csproj", "{76FE7200-AAB0-408F-951D-1C0F1E96065B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E003C62-036E-4C36-A1FB-FB914E56EB3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E003C62-036E-4C36-A1FB-FB914E56EB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E003C62-036E-4C36-A1FB-FB914E56EB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E003C62-036E-4C36-A1FB-FB914E56EB3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{680E7763-544E-48B1-B160-DCAC1AA848A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{680E7763-544E-48B1-B160-DCAC1AA848A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{680E7763-544E-48B1-B160-DCAC1AA848A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{680E7763-544E-48B1-B160-DCAC1AA848A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76FE7200-AAB0-408F-951D-1C0F1E96065B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76FE7200-AAB0-408F-951D-1C0F1E96065B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76FE7200-AAB0-408F-951D-1C0F1E96065B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76FE7200-AAB0-408F-951D-1C0F1E96065B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

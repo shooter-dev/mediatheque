@@ -1,0 +1,15 @@
+c:\users\shooter\documents\visual studio 2017\Projects\Mangatheque\IHM\bin\Debug\IHM.exe.config
+c:\users\shooter\documents\visual studio 2017\Projects\Mangatheque\IHM\bin\Debug\IHM.exe
+c:\users\shooter\documents\visual studio 2017\Projects\Mangatheque\IHM\bin\Debug\IHM.pdb
+c:\users\shooter\documents\visual studio 2017\Projects\Mangatheque\IHM\obj\Debug\IHM.csprojResolveAssemblyReference.cache
+c:\users\shooter\documents\visual studio 2017\Projects\Mangatheque\IHM\obj\Debug\IHM.FormIndex.resources
+c:\users\shooter\documents\visual studio 2017\Projects\Mangatheque\IHM\obj\Debug\IHM.Properties.Resources.resources
+c:\users\shooter\documents\visual studio 2017\Projects\Mangatheque\IHM\obj\Debug\IHM.csproj.GenerateResource.Cache
+c:\users\shooter\documents\visual studio 2017\Projects\Mangatheque\IHM\obj\Debug\IHM.exe
+c:\users\shooter\documents\visual studio 2017\Projects\Mangatheque\IHM\obj\Debug\IHM.pdb
+c:\users\shooter\documents\visual studio 2017\Projects\Mangatheque\IHM\obj\Debug\IHM.EditeurViewControl.resources
+c:\users\shooter\documents\visual studio 2017\Projects\Mangatheque\IHM\obj\Debug\IHM.PersonneViewControl.resources
+c:\users\shooter\documents\visual studio 2017\Projects\Mangatheque\IHM\obj\Debug\IHM.PersonneAddForm.resources
+c:\users\shooter\documents\visual studio 2017\Projects\Mangatheque\IHM\bin\Debug\Metier.dll
+c:\users\shooter\documents\visual studio 2017\Projects\Mangatheque\IHM\bin\Debug\Metier.pdb
+C:\Users\Shooter\Documents\Visual Studio 2017\Projects\Mangatheque\IHM\obj\Debug\IHM.FormPersonne.resources

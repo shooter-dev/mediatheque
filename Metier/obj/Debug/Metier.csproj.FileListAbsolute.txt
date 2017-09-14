@@ -1,0 +1,5 @@
+c:\users\shooter\documents\visual studio 2017\Projects\Mangatheque\Metier\bin\Debug\Metier.dll
+c:\users\shooter\documents\visual studio 2017\Projects\Mangatheque\Metier\bin\Debug\Metier.pdb
+c:\users\shooter\documents\visual studio 2017\Projects\Mangatheque\Metier\obj\Debug\Metier.csprojResolveAssemblyReference.cache
+c:\users\shooter\documents\visual studio 2017\Projects\Mangatheque\Metier\obj\Debug\Metier.dll
+c:\users\shooter\documents\visual studio 2017\Projects\Mangatheque\Metier\obj\Debug\Metier.pdb
