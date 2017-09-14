@@ -8,5 +8,10 @@ namespace DAO
 {
     public class Connect
     {
+        private string url ="shooterdev.hopto.org";
+        private string database ="mangatheque";
+        private string login ="";
+        private string pwd ="";
+        private string port ="";
     }
 }
