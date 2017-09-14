@@ -13,3 +13,19 @@ c:\users\shooter\documents\visual studio 2017\Projects\Mangatheque\IHM\obj\Debug
 c:\users\shooter\documents\visual studio 2017\Projects\Mangatheque\IHM\bin\Debug\Metier.dll
 c:\users\shooter\documents\visual studio 2017\Projects\Mangatheque\IHM\bin\Debug\Metier.pdb
 C:\Users\Shooter\Documents\Visual Studio 2017\Projects\Mangatheque\IHM\obj\Debug\IHM.FormPersonne.resources
+C:\Users\platevoet vincent\source\repos\mediatheque\IHM\bin\Debug\IHM.exe.config
+C:\Users\platevoet vincent\source\repos\mediatheque\IHM\bin\Debug\IHM.exe
+C:\Users\platevoet vincent\source\repos\mediatheque\IHM\bin\Debug\IHM.pdb
+C:\Users\platevoet vincent\source\repos\mediatheque\IHM\bin\Debug\Metier.dll
+C:\Users\platevoet vincent\source\repos\mediatheque\IHM\bin\Debug\Metier.pdb
+C:\Users\platevoet vincent\source\repos\mediatheque\IHM\obj\Debug\IHM.csprojResolveAssemblyReference.cache
+C:\Users\platevoet vincent\source\repos\mediatheque\IHM\obj\Debug\IHM.EditeurViewControl.resources
+C:\Users\platevoet vincent\source\repos\mediatheque\IHM\obj\Debug\IHM.FormIndex.resources
+C:\Users\platevoet vincent\source\repos\mediatheque\IHM\obj\Debug\IHM.FormPersonne.resources
+C:\Users\platevoet vincent\source\repos\mediatheque\IHM\obj\Debug\IHM.PersonneAddForm.resources
+C:\Users\platevoet vincent\source\repos\mediatheque\IHM\obj\Debug\IHM.PersonneViewControl.resources
+C:\Users\platevoet vincent\source\repos\mediatheque\IHM\obj\Debug\IHM.Properties.Resources.resources
+C:\Users\platevoet vincent\source\repos\mediatheque\IHM\obj\Debug\IHM.csproj.GenerateResource.Cache
+C:\Users\platevoet vincent\source\repos\mediatheque\IHM\obj\Debug\IHM.csproj.CoreCompileInputs.cache
+C:\Users\platevoet vincent\source\repos\mediatheque\IHM\obj\Debug\IHM.exe
+C:\Users\platevoet vincent\source\repos\mediatheque\IHM\obj\Debug\IHM.pdb
