@@ -89,7 +89,7 @@
             this.panelMenu.Dock = System.Windows.Forms.DockStyle.Left;
             this.panelMenu.Location = new System.Drawing.Point(0, 0);
             this.panelMenu.Name = "panelMenu";
-            this.panelMenu.Size = new System.Drawing.Size(200, 681);
+            this.panelMenu.Size = new System.Drawing.Size(200, 728);
             this.panelMenu.TabIndex = 0;
             // 
             // panelBtnMenu
@@ -102,7 +102,7 @@
             this.panelBtnMenu.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panelBtnMenu.Location = new System.Drawing.Point(0, 210);
             this.panelBtnMenu.Name = "panelBtnMenu";
-            this.panelBtnMenu.Size = new System.Drawing.Size(200, 390);
+            this.panelBtnMenu.Size = new System.Drawing.Size(200, 437);
             this.panelBtnMenu.TabIndex = 2;
             // 
             // groupBox5
@@ -376,7 +376,7 @@
             this.panelFoot.Controls.Add(this.progressBarChargement);
             this.panelFoot.Controls.Add(this.label2);
             this.panelFoot.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panelFoot.Location = new System.Drawing.Point(0, 600);
+            this.panelFoot.Location = new System.Drawing.Point(0, 647);
             this.panelFoot.Name = "panelFoot";
             this.panelFoot.Size = new System.Drawing.Size(200, 81);
             this.panelFoot.TabIndex = 1;
@@ -393,15 +393,16 @@
             // 
             // progressBarChargement
             // 
-            this.progressBarChargement.Location = new System.Drawing.Point(0, 55);
+            this.progressBarChargement.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.progressBarChargement.Location = new System.Drawing.Point(0, 58);
             this.progressBarChargement.Name = "progressBarChargement";
-            this.progressBarChargement.Size = new System.Drawing.Size(197, 23);
+            this.progressBarChargement.Size = new System.Drawing.Size(200, 23);
             this.progressBarChargement.TabIndex = 1;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(-3, 39);
+            this.label2.Location = new System.Drawing.Point(3, 39);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(35, 13);
             this.label2.TabIndex = 0;
@@ -445,12 +446,12 @@
             this.panelHeader.Dock = System.Windows.Forms.DockStyle.Top;
             this.panelHeader.Location = new System.Drawing.Point(200, 0);
             this.panelHeader.Name = "panelHeader";
-            this.panelHeader.Size = new System.Drawing.Size(984, 40);
+            this.panelHeader.Size = new System.Drawing.Size(750, 40);
             this.panelHeader.TabIndex = 1;
             // 
             // btnMiniz
             // 
-            this.btnMiniz.Location = new System.Drawing.Point(906, 5);
+            this.btnMiniz.Location = new System.Drawing.Point(681, 4);
             this.btnMiniz.Name = "btnMiniz";
             this.btnMiniz.Size = new System.Drawing.Size(30, 30);
             this.btnMiniz.TabIndex = 2;
@@ -458,7 +459,7 @@
             // 
             // btnClose
             // 
-            this.btnClose.Location = new System.Drawing.Point(942, 5);
+            this.btnClose.Location = new System.Drawing.Point(717, 4);
             this.btnClose.Name = "btnClose";
             this.btnClose.Size = new System.Drawing.Size(30, 30);
             this.btnClose.TabIndex = 3;
@@ -480,22 +481,22 @@
             this.panelModif.Dock = System.Windows.Forms.DockStyle.Top;
             this.panelModif.Location = new System.Drawing.Point(200, 40);
             this.panelModif.Name = "panelModif";
-            this.panelModif.Size = new System.Drawing.Size(984, 200);
+            this.panelModif.Size = new System.Drawing.Size(750, 120);
             this.panelModif.TabIndex = 2;
             // 
             // panelContent
             // 
             this.panelContent.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panelContent.Location = new System.Drawing.Point(200, 240);
+            this.panelContent.Location = new System.Drawing.Point(200, 160);
             this.panelContent.Name = "panelContent";
-            this.panelContent.Size = new System.Drawing.Size(984, 441);
+            this.panelContent.Size = new System.Drawing.Size(750, 568);
             this.panelContent.TabIndex = 3;
             // 
             // FormIndex
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1184, 681);
+            this.ClientSize = new System.Drawing.Size(950, 728);
             this.Controls.Add(this.panelContent);
             this.Controls.Add(this.panelModif);
             this.Controls.Add(this.panelHeader);
